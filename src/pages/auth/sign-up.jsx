@@ -10,7 +10,7 @@ import { Link } from "react-router-dom";
 export function SignUp() {
   return (
     <section className="m-8 flex justify-center">
-      <div className="lg:w-3/5 mt-36 flex flex-col items-center border rounded-lg pt-10 pb-10">
+      <div className="lg:w-3/5 flex flex-col items-center border rounded-lg pt-10 pb-10">
         <img src={"/img/kpec.png"} alt="brand" className="h-28 mb-4" />
         <div className="text-center w-full">
           <Typography variant="h2" className="font-bold">
